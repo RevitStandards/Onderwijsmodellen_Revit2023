@@ -1,2 +1,2 @@
 # Onderwijsmodellen_Revit2023
- NLRS Onderwijsmodellen in Revit formaat 2023 en als IFC4 Reference View export
+Deze repository is gesloten. De modellen zijn ondergebracht in de repository NLRS_Onderwijsmodellen/Revit2024
